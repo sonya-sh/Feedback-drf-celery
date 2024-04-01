@@ -16,3 +16,4 @@ class FeedbackFormView(FormView):
 
 class SuccessView(TemplateView):
     template_name = "feedback/success.html"
+

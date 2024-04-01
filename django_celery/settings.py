@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "feedback.apps.FeedbackConfig",
     'rest_framework',
+    "api",
 ]
 
 MIDDLEWARE = [
